@@ -1,0 +1,8 @@
+---
+title: "Hello World"
+author: "juancinclan"
+date: "15/7/2020"
+output: word_document
+---
+
+##This is a markdown file
